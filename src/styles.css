@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.homepage {
+  border: 1px solid rgba(1,1,1,0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+  font-size: small;
+  padding: 3px;
+}
+
+.searchbar {
+  width: 280px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  align-self: center;
+}
+
+.employeeList {
+  width: 260px;
+}
+
+.profile-card {
+  display: flex;
+  padding: 8px;
+  width: 100%; 
+  font-family: Arial, sans-serif; 
+}
+
+.avatar {
+  margin-right: 5px; 
+}
+
+.avatar img {
+  width: 30px; 
+  height: 30px;
+  border-radius: 50%; 
+}
+
+.information h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #333; 
+}
+
+.information p {
+  margin: 0;
+  font-size: 14px; 
+  color: #666; 
+}
+
+.employeeListItems {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
