@@ -1,7 +1,7 @@
 export default function EmployeeListItem() {
   return (
     <div className="employeeListItems">
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar.png" alt="James King" />
         </div>
@@ -10,7 +10,7 @@ export default function EmployeeListItem() {
           <p>President and CEO</p>
         </div>
       </div>
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="James King" />
         </div>
@@ -19,7 +19,7 @@ export default function EmployeeListItem() {
           <p>VP of Marketing</p>
         </div>
       </div>
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar.png" alt="James King" />
         </div>
@@ -28,7 +28,7 @@ export default function EmployeeListItem() {
           <p>CFO</p>
         </div>
       </div>
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="James King" />
         </div>
@@ -37,7 +37,7 @@ export default function EmployeeListItem() {
           <p>VP of Engineering</p>
         </div>
       </div>
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar.png" alt="James King" />
         </div>
@@ -46,7 +46,7 @@ export default function EmployeeListItem() {
           <p>VP of Sales</p>
         </div>
       </div>
-      <div className="profile-card">
+      <div className="profilecard">
         <div className="avatar">
           <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="James King" />
         </div>
